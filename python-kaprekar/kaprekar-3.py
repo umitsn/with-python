@@ -38,8 +38,3 @@ for i in range(1000,9999+1):
                 i = ns
                 n +=1
         print(a,n)
-
-
-          
-
-
