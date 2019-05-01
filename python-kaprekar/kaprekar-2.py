@@ -1,6 +1,6 @@
 """
 umit sen - izmir - mayıs 2019 - umitsen.wordpress.com
-bir sayı için kaprekar sabitini hesaplamadaki tüm tüm adımlarıları ayrıntıları ile ekrana yazdırır.
+bir sayı için kaprekar sabitini hesaplamadaki tüm tüm işlem adımlarılarını ekrana yazdırır.
 """
 def kontrol(n):
     sayi = str(n)
@@ -39,5 +39,4 @@ def goster(k):
                 n +=1
         print(a,n)
           
-goster(7175)
-
+goster(3765)
