@@ -5,7 +5,6 @@ bu sayıları her adım için ayrı ayrı oluşturduğu txt dosyasına kaydeder.
 """
 
 gruplar = {}
-data = []
 
 def kontrol(n):
     sayi = str(n)
