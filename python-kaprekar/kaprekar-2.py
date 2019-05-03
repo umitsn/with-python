@@ -6,6 +6,7 @@ def kontrol(n):
     sayi = str(n)
     liste = [int(x) for x in sayi]
     if (liste.count(liste[0])==4):
+        print("Girilen sayının rakamları birbirine eşit olamaz.")
         return False
     else:
         return True
