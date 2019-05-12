@@ -1,7 +1,6 @@
 """
 umit sen - izmir - mayıs 2019 - umitsen.wordpress.com
-sayıları adım sayısına göre gruplandırıp ve
-bu sayıları her adım için ayrı ayrı oluşturduğu txt dosyasına kaydeder.
+sayıları adım sayısına göre gruplandırıp bu sayıları her adım için ayrı ayrı oluşturduğu txt dosyasına kaydeder.
 """
 
 gruplar = {}
