@@ -6,7 +6,6 @@ sorusuna çözüm içindir.
 Bolen sayı 5 seçilirse n! sayısının sonunda kaç sıfır olduğu 
 bulunmuş olur.
 """
-
 sayi = 51
 bolen = 3
 
