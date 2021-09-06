@@ -1,5 +1,6 @@
 ümit şen 09.2021
-\n
+
+
 n! sayısının sonunda kaç 0 vardır ya da 
 n! içinde kaç tane x tamsayı çarpanı vardır
 sorusuna çözüm içindir.
