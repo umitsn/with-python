@@ -1,8 +1,8 @@
 **n!** sayısı içinde hangi asal çarpandan kaç tane olduğunu hesaplar.
 
 **örnek çıktı:**
-97! sayısı içerisinde :
-        2       çarpanından 94  tane
+97! sayısı içerisinde :\
+        2       çarpanından 94  tane\
         3       çarpanından 46  tane
         5       çarpanından 22  tane
         7       çarpanından 14  tane
