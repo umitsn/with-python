@@ -26,7 +26,7 @@
         79      çarpanından 1   tane\
         83      çarpanından 1   tane\
         89      çarpanından 1   tane\
-        97      çarpanından 1   tane\
+        97      çarpanından 1   tane
 
 [Blogum](http://umitsen.wordpress.com)
 
