@@ -1,5 +1,5 @@
 """
-ümit şen 09.2021 bircalismaningunlugu@gmail.com
+ümit şen - 09.2021 - https://umitsen.wordpress.com/
 n! sayısının herhangi bir tamsayı böleninin sayısını hesaplar. Bolen sayı 5 seçilirse n! sayısının sonunda kaç sıfır bulunur.
 """
 sayi = 51
