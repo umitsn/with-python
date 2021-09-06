@@ -1,6 +1,6 @@
 """
 ümit şen 09.2021 bircalismaningunlugu@gmail.com
-n! sayısında hangi asal sayı çarpanından kaç tane olduğunu hesaplar.
+n! sayısında hangi asal sayı çarpandan kaç tane olduğunu hesaplar.
 """
 
 def asalTest(n):
