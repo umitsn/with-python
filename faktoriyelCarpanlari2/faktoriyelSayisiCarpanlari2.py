@@ -1,5 +1,5 @@
 """
-ümit şen 09.2021 bircalismaningunlugu@gmail.com
+ümit şen - 09.2021 - https://umitsen.wordpress.com/
 n! sayısında hangi asal sayı çarpandan kaç tane olduğunu hesaplar.
 """
 
