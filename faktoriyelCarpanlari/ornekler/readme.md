@@ -1,0 +1,5 @@
+![ornek](ornekler/ornek01.png)
+![ornek](ornekler/ornek02.png)
+![ornek](ornekler/ornek03.png)
+![ornek](ornekler/ornek04.png)
+![ornek](ornekler/ornek05.png)
