@@ -1,6 +1,6 @@
 **ümit şen 09.2021**\
 **n!** sayısının herhangi bir tamsayı böleninin sayısını hesaplar. 
-Bolen sayı 5 seçilirse n! sayısının sonunda kaç sıfır bulunur.
+**n!** sayısının sonunda kaç sıfır bulur? Sorusunun cevabı için bolen=5 seçilmelidir.
 
 ![örnek](/faktoriyelCarpanlari/ornekler/ornek02.png)
 ![örnek](/faktoriyelCarpanlari/ornekler/ornek01.png)
