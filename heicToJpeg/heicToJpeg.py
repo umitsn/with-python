@@ -9,7 +9,6 @@ args =  parser.parse_args()
 klasor = "HEIC"
 os.makedirs(klasor, exist_ok=True)
 
-
 for infile in glob.glob(f"*.HEIC"):
     dosya, ext = os.path.splitext(infile)
     command = f"convert {dosya}.heic -quality {args.quality} {dosya}_q{args.quality}.jpg"
