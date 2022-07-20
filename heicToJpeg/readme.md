@@ -1,4 +1,5 @@
 HEIC formatındaki görüntüleri istenilen kalitede JPEG formatına çevirir.
+Ugulamanın çalışması için **[ImageMagick](https://legacy.imagemagick.org/script/download.php)** kurulu olması gerekir.
 
 **python heicToJpeg.py -q 100**\
 şeklinde kullanılır. 100 seçilirse kayıpsız, büyük dosya boyutlu JPEG dosyaları oluşur.\
