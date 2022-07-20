@@ -2,8 +2,9 @@
 import os,shutil,glob
 import argparse
 
-parser = argparse.ArgumentParser(description="HEIC görüntülerini istenilen kalitede JPEG formatına çevirir.")
-parser.add_argument('-g','--quality',default=80, help="Varsayılan Kalite 80")
+descript = "HEIC görüntülerini istenilen kalitede JPEG formatına çevirir."
+parser = argparse.ArgumentParser(description=descript)
+parser.add_argument('-q','--quality',default=80, help="Varsayılan Kalite 80")
 args =  parser.parse_args()
 
 for infile in glob.glob("*.HEIC"):
