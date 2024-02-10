@@ -1,4 +1,4 @@
-Python Büyün String Metotları - Python All String Methods
+YouTube Shorts - Python Büyün String Metotları - Python All String Methods
 - <a href="#capitalize">**capitalize**</a>
 - <a href="#casefold">**casefold**</a>
 - <a href="#center">**center**</a>
