@@ -130,7 +130,7 @@ YouTube Shorts - Python Büyün String Metotları - Python All String Methods **
 
 ---
 <a href="#toc-isnumeric"><span>&#8679;</span></a> - <span id = "isnumeric">**isnumeric :**</span><br>
-[![isnumeric](https://img.youtube.com/vi//0.jpg)](https://youtube.com/shorts/ "isnumeric")
+[![isnumeric](https://img.youtube.com/vi/JkIDMlGsGrc/0.jpg)](https://youtube.com/shorts/JkIDMlGsGrc "isnumeric")
 <br>
 
 ---
@@ -140,7 +140,7 @@ YouTube Shorts - Python Büyün String Metotları - Python All String Methods **
 
 ---
 <a href="#toc-isspace"><span>&#8679;</span></a> - <span id = "isspace">**isspace :**</span><br>
-[![isspace](https://img.youtube.com/vi//0.jpg)](https://youtube.com/shorts/ "isspace")
+[![isspace](https://img.youtube.com/vi/9muj3MSpHjc/0.jpg)](https://youtube.com/shorts/9muj3MSpHjc "isspace")
 <br>
 
 ---
@@ -170,7 +170,7 @@ YouTube Shorts - Python Büyün String Metotları - Python All String Methods **
 
 ---
 <a href="#toc-lstrip"><span>&#8679;</span></a> - <span id = "lstrip">**lstrip :**</span><br>
-[![lstrip](https://img.youtube.com/vi//0.jpg)](https://youtube.com/shorts/ "lstrip")
+[![lstrip](https://img.youtube.com/vi/1-OkTVa-MpI/0.jpg)](https://youtube.com/shorts/1-OkTVa-MpI "lstrip")
 <br>
 
 ---
@@ -242,5 +242,6 @@ YouTube Shorts - Python Büyün String Metotları - Python All String Methods **
 <a href="#toc-swapcase"><span>&#8679;</span></a> - <span id = "swapcase">**swapcase :**</span><br>
 [![swapcase](https://img.youtube.com/vi/Fc27Nu45WaA/0.jpg)](https://youtube.com/shorts/Fc27Nu45WaA "swapcase")
 <br>
+
 
 
