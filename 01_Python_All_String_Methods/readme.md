@@ -2,10 +2,10 @@ Python Büyün String Metotları - Python All String Methods
 - <a href="#capitalize">**capitalize**</a>
 - <a href="#swapcase">**swapcase**</a>
 
-<span id = "capitalize">capitalize</span>
-
+<span id = "capitalize">**capitalize**</span><br>
 [![## capitalize](https://img.youtube.com/vi/g3JrPY3ogCw/0.jpg)](https://youtube.com/shorts/g3JrPY3ogCw "capitalize")
 
+<span id = "casefold">**casefold**</span><br>
 [![## casefold](https://img.youtube.com/vi/Q2HslIP03pk/0.jpg)](https://youtube.com/shorts/Q2HslIP03pk "casefold")
 
 [![## center](https://img.youtube.com/vi/1fJgV2g4npU/0.jpg)](https://youtube.com/shorts/1fJgV2g4npU "center")
