@@ -42,7 +42,7 @@ YouTube Shorts - Python Büyün String Metotları - Python All String Methods
 
 
 ---
-<span id = "capitalize">**capitalize**</span> - <a href="#toc-capitalize"><span style='font-size:75px;'>&#8679;</span></a><br>
+<span id = "capitalize">**capitalize**</span> - <a href="#toc-capitalize"><span style='font-size:100px;'>&#8679;</span></a><br>
 [![capitalize](https://img.youtube.com/vi/g3JrPY3ogCw/0.jpg)](https://youtube.com/shorts/g3JrPY3ogCw "capitalize")
 <br>
 
