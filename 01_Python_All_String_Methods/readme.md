@@ -1,28 +1,8 @@
 Python Büyün String Metotları - Python All String Methods
+- <a href="#capitalize">**capitalize**</a>
+- <a href="#swapcase">**swapcase**</a>
 
-[Alt Başlık 1.1](#alt-baslik-11)
-[Alt Başlık 1.2](#alt-baslik-12)
-[Alt Başlık 2.1](#alt-baslik-21)
-[Alt Başlık 2.2](#alt-baslik-22)
-
-
-
-
-# Başlık 1
-## Alt Başlık 1.1
-## Alt Başlık 1.2
-# Başlık 2
-## Alt Başlık 2.1
-## Alt Başlık 2.2
-
-
-
-
-## capitalize
-## casefold
-## center
-
-
+<span id = "capitalize"></span>
 [![## capitalize](https://img.youtube.com/vi/g3JrPY3ogCw/0.jpg)](https://youtube.com/shorts/g3JrPY3ogCw "capitalize")
 
 [![## casefold](https://img.youtube.com/vi/Q2HslIP03pk/0.jpg)](https://youtube.com/shorts/Q2HslIP03pk "casefold")
@@ -65,6 +45,8 @@ Python Büyün String Metotları - Python All String Methods
 [![## splitlines](https://img.youtube.com/vi/qWjlhEIknB4/0.jpg)](https://youtube.com/shorts/qWjlhEIknB4 "splitlines")
 [![## startswith](https://img.youtube.com/vi/6tR3RDENYYI/0.jpg)](https://youtube.com/shorts/6tR3RDENYYI "startswith")
 [![## strip](https://img.youtube.com/vi/dYF0XjR9yf8/0.jpg)](https://youtube.com/shorts/dYF0XjR9yf8 "strip")
+
+<span id = "capitalize"></span>
 [![## swapcase](https://img.youtube.com/vi/Fc27Nu45WaA/0.jpg)](https://youtube.com/shorts/Fc27Nu45WaA "swapcase")
 
 
