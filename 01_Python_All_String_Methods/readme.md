@@ -1,7 +1,5 @@
 Python Büyün String Metotları - Python All String Methods
 
-<iframe width="560" height="315" src="[https://youtube.com/shorts/g3JrPY3ogCw?feature=share](https://youtube.com/shorts/g3JrPY3ogCw?feature=share)https://youtube.com/shorts/g3JrPY3ogCw?feature=share" frameborder="0" allowfullscreen></iframe>
+capitalize https://youtube.com/shorts/g3JrPY3ogCw?feature=share 
 
-[![IMAGE ALT TEXT HERE](https://youtube.com/shorts/g3JrPY3ogCw?feature=share)](https://youtube.com/shorts/g3JrPY3ogCw?feature=share)
-
-
+[![capitalize](https://youtube.com/shorts/g3JrPY3ogCw?feature=share/0.jpg)](https://youtube.com/shorts/g3JrPY3ogCw?feature=share "Video Title")
