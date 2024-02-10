@@ -1,4 +1,4 @@
-**Ümit Şen** | **[Blog](http://umitsen.wordpress.com)**
+**Ümit Şen** | **[Youtube](https://www.youtube.com/@umtsn)** | **[Buymeacoffee](https://www.buymeacoffee.com/umitsen)**
 
 Girilen sayı için çarpanlara ayırma işlemi yapar.
 
