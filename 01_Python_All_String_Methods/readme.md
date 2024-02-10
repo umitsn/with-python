@@ -43,16 +43,12 @@ Python Büyün String Metotları - Python All String Methods
 
 <span id = "capitalize">**capitalize**</span><br>
 [![capitalize](https://img.youtube.com/vi/g3JrPY3ogCw/0.jpg)](https://youtube.com/shorts/g3JrPY3ogCw "capitalize")
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g3JrPY3ogCw frameborder="0" allowfullscreen></iframe>
-
-
-
-
-
+<br>
 
 <span id = "casefold">**casefold**</span><br>
 [![## casefold](https://img.youtube.com/vi/Q2HslIP03pk/0.jpg)](https://youtube.com/shorts/Q2HslIP03pk "casefold")
+<br>
+
 
 [![## center](https://img.youtube.com/vi/1fJgV2g4npU/0.jpg)](https://youtube.com/shorts/1fJgV2g4npU "center")
 
