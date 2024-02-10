@@ -1,3 +1,5 @@
+**[Youtube](https://www.youtube.com/@umtsn)** | **[Buymeacoffee](https://www.buymeacoffee.com/umitsen)**
+
 **n!** sayısında hangi asal çarpandan kaç tane olduğunu hesaplar.\
 **Örnek**
 
