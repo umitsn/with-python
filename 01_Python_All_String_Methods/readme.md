@@ -1,5 +1,23 @@
 Python Büyün String Metotları - Python All String Methods
 
+[Alt Başlık 1.1](#alt-baslik-11)
+[Alt Başlık 1.2](#alt-baslik-12)
+[Alt Başlık 2.1](#alt-baslik-21)
+[Alt Başlık 2.2](#alt-baslik-22)
+
+
+
+
+# Başlık 1
+## Alt Başlık 1.1
+## Alt Başlık 1.2
+# Başlık 2
+## Alt Başlık 2.1
+## Alt Başlık 2.2
+
+
+
+
 ## capitalize
 ## casefold
 ## center
@@ -48,3 +66,10 @@ Python Büyün String Metotları - Python All String Methods
 [![## startswith](https://img.youtube.com/vi/6tR3RDENYYI/0.jpg)](https://youtube.com/shorts/6tR3RDENYYI "startswith")
 [![## strip](https://img.youtube.com/vi/dYF0XjR9yf8/0.jpg)](https://youtube.com/shorts/dYF0XjR9yf8 "strip")
 [![## swapcase](https://img.youtube.com/vi/Fc27Nu45WaA/0.jpg)](https://youtube.com/shorts/Fc27Nu45WaA "swapcase")
+
+
+## Alt Başlık 1.1 {#alt-baslik-11}
+## Alt Başlık 1.2 {#alt-baslik-12}
+## Alt Başlık 2.1 {#alt-baslik-21}
+## Alt Başlık 2.2 {#alt-baslik-22}
+
