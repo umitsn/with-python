@@ -2,7 +2,7 @@ Python Büyün String Metotları - Python All String Methods
 
 ## capitalize
 ## casefold
-
+## center
 
 
 [![## capitalize](https://img.youtube.com/vi/g3JrPY3ogCw/0.jpg)](https://youtube.com/shorts/g3JrPY3ogCw "capitalize")
@@ -10,6 +10,7 @@ Python Büyün String Metotları - Python All String Methods
 [![## casefold](https://img.youtube.com/vi/Q2HslIP03pk/0.jpg)](https://youtube.com/shorts/Q2HslIP03pk "casefold")
 
 [![## center](https://img.youtube.com/vi/1fJgV2g4npU/0.jpg)](https://youtube.com/shorts/1fJgV2g4npU "center")
+
 [![## count](https://img.youtube.com/vi/intW7LeBVLw/0.jpg)](https://youtube.com/shorts/intW7LeBVLw "count")
 [![## encode](https://img.youtube.com/vi/IgCqZhqUvaQ/0.jpg)](https://youtube.com/shorts/IgCqZhqUvaQ "encode")
 [![## find](https://img.youtube.com/vi/RNMoIcRAUu4/0.jpg)](https://youtube.com/shorts/RNMoIcRAUu4 "find")
