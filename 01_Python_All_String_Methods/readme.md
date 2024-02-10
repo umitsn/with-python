@@ -1,6 +1,6 @@
 YouTube Shorts - Python Büyün String Metotları - Python All String Methods **[Youtube](https://www.youtube.com/@umtsn)** | **[Buymeacoffee](https://www.buymeacoffee.com/umitsen)** 
 
-[All Python Methods YouTube Shorts Play List](https://www.youtube.com/playlist?list=PLWmM3tw4zswYp2ee_doiA-zb0AOD_vXms)
+[All Python Methods YouTube Shorts Playlist](https://www.youtube.com/playlist?list=PLWmM3tw4zswYp2ee_doiA-zb0AOD_vXms)
 
 - <a href="#capitalize" id="toc-capitalize">**capitalize**</a>
 - <a href="#casefold" id="toc-casefold">**casefold**</a>
