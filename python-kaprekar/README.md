@@ -1,3 +1,5 @@
+**[Youtube](https://www.youtube.com/@umtsn)** | **[Buymeacoffee](https://www.buymeacoffee.com/umitsen)**
+
 - **kaprekar-1.py** kodları herhangi bir sayı için istenilen kurallar uygulandığında sonuç olarak kaprekar sabiti elde edildiğini hesaplar.
 - **kaprekar-2.py** kodları herhangi bir sayı için kaprekar sabiti hesaplama aşamasındaki tüm adımları gösterir.</br>
 - **kaprekar-3.py** kodları 1000'den 9999'a kadar tüm sayıların yanına kaç adımda kaprekar sabitine ulaştığını gösterir.
