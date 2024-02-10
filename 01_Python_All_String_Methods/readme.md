@@ -41,13 +41,10 @@ Python Büyün String Metotları - Python All String Methods
 - <a href="#swapcase">**swapcase**</a>
 
 
-
-			---
-
-            <span id = "capitalize">**capitalize**</span><br>
-
-            [![capitalize](https://img.youtube.com/vi/g3JrPY3ogCw/0.jpg)](https://youtube.com/shorts/g3JrPY3ogCw "capitalize")
-			<br>
+---
+<span id = "capitalize">**capitalize**</span><br>
+[![capitalize](https://img.youtube.com/vi/g3JrPY3ogCw/0.jpg)](https://youtube.com/shorts/g3JrPY3ogCw "capitalize")
+<br>
 			
 
 			---
