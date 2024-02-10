@@ -1,7 +1,45 @@
 Python Büyün String Metotları - Python All String Methods
 - <a href="#capitalize">**capitalize**</a>
+- <a href="#casefold">**casefold**</a>
+- <a href="#center">**center**</a>
+- <a href="#count">**count**</a>
+- <a href="#encode">**encode**</a>
+- <a href="#find">**find**</a>
+- <a href="#endswith">**endswith**</a>
+- <a href="#expandtabs">**expandtabs**</a>
+- <a href="#format">**format**</a>
+- <a href="#index">**index**</a>
+- <a href="#isalnum">**isalnum**</a>
+- <a href="#isalpha">**isalpha**</a>
+- <a href="#isascii">**isascii**</a>
+- <a href="#isdecimal">**isdecimal**</a>
+- <a href="#isdigit">**isdigit**</a>
+- <a href="#isidentifier">**isidentifier**</a>
+- <a href="#islower">**islower**</a>
+- <a href="#isnumeric">**isnumeric**</a>
+- <a href="#isprintable">**isprintable**</a>
+- <a href="#isspace">**isspace**</a>
+- <a href="#istitle">**istitle**</a>
+- <a href="#isupper">**isupper**</a>
+- <a href="#join">**join**</a>
+- <a href="#ljust">**ljust**</a>
+- <a href="#lower">**lower**</a>
+- <a href="#lstrip">**lstrip**</a>
+- <a href="#maketrans-translate">**maketrans-translate**</a>
+- <a href="#replace">**replace**</a>
+- <a href="#partition">**partition**</a>
+- <a href="#rfind">**rfind**</a>
+- <a href="#rindex">**rindex**</a>
+- <a href="#rjust">**rjust**</a>
+- <a href="#rpartition">**rpartition**</a>
+- <a href="#rsplit">**rsplit**</a>
+- <a href="#rstrip">**rstrip**</a>
+- <a href="#split">**split**</a>
+- <a href="#splitlines">**splitlines**</a>
+- <a href="#startswith">**startswith**</a>
+- <a href="#strip">**strip**</a>
 - <a href="#swapcase">**swapcase**</a>
-
+<hr>
 <span id = "capitalize">**capitalize**</span><br>
 [![## capitalize](https://img.youtube.com/vi/g3JrPY3ogCw/0.jpg)](https://youtube.com/shorts/g3JrPY3ogCw "capitalize")
 
