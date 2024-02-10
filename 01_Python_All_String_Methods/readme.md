@@ -43,7 +43,6 @@ YouTube Shorts - Python Büyün String Metotları - Python All String Methods **
 - <a href="#strip" id="toc-strip">**strip**</a>
 - <a href="#swapcase" id="toc-swapcase">**swapcase**</a>
 
-
 ---
 <a href="#toc-capitalize"><span>&#8679;</span></a> - <span id = "capitalize">**capitalize :**</span><br>
 [![capitalize](https://img.youtube.com/vi/g3JrPY3ogCw/0.jpg)](https://youtube.com/shorts/g3JrPY3ogCw "capitalize")
@@ -243,4 +242,5 @@ YouTube Shorts - Python Büyün String Metotları - Python All String Methods **
 <a href="#toc-swapcase"><span>&#8679;</span></a> - <span id = "swapcase">**swapcase :**</span><br>
 [![swapcase](https://img.youtube.com/vi/Fc27Nu45WaA/0.jpg)](https://youtube.com/shorts/Fc27Nu45WaA "swapcase")
 <br>
+
 
