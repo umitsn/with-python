@@ -1,3 +1,5 @@
+**[Youtube](https://www.youtube.com/@umtsn)** | **[Buymeacoffee](https://www.buymeacoffee.com/umitsen)**
+
 HEIC formatındaki görüntüleri istenilen kalitede JPEG formatına çevirir.
 
 Ugulamanın çalışması için **[ImageMagick](https://legacy.imagemagick.org/script/download.php)** kurulu olması gerekir.
