@@ -46,7 +46,7 @@ Python Büyün String Metotları - Python All String Methods
 
 <div class="embed-container">
     <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/g3JrPY3ogCw" 
+    src="[https://www.youtube.com/embed/g3JrPY3ogCw](https://youtube.com/shorts/g3JrPY3ogCw)" 
     frameborder="0" allowfullscreen></iframe>
 </div>
 
