@@ -2,6 +2,7 @@ YouTube Shorts - Python Büyün String Metotları - Python All String Methods **
 
 [All Python Methods YouTube Shorts Playlist](https://www.youtube.com/playlist?list=PLWmM3tw4zswYp2ee_doiA-zb0AOD_vXms)
 
+
 - <a href="#web-capitalize" id="web-toc-capitalize">**capitalize**</a>
 - <a href="#web-casefold" id="web-toc-casefold">**casefold**</a>
 - <a href="#web-center" id="web-toc-center">**center**</a>
