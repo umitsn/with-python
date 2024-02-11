@@ -43,6 +43,7 @@ YouTube Shorts - Python Büyün String Metotları - Python All String Methods **
 - <a href="#web-startswith" id="web-toc-startswith">**startswith**</a>
 - <a href="#web-strip" id="web-toc-strip">**strip**</a>
 - <a href="#web-swapcase" id="web-toc-swapcase">**swapcase**</a>
+- <a href="#web-title" id="web-toc-title">**title**</a>
 
 
 ---
@@ -245,6 +246,10 @@ YouTube Shorts - Python Büyün String Metotları - Python All String Methods **
 [![swapcase](https://img.youtube.com/vi/Fc27Nu45WaA/0.jpg)](https://youtube.com/shorts/Fc27Nu45WaA "swapcase")
 <br>
 
+---
+<a href="#web-toc-title"><span>&#8679;</span></a> - <span id = "web-title">**title :**</span><br>
+[![title](https://img.youtube.com/vi/-UtoNTt8xJs/0.jpg)](https://youtube.com/shorts/-UtoNTt8xJs "title")
+<br>
 
 
 
