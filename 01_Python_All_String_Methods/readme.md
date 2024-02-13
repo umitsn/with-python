@@ -44,6 +44,8 @@ YouTube Shorts - Python Büyün String Metotları - Python All String Methods **
 - <a href="#web-strip" id="web-toc-strip">**strip**</a>
 - <a href="#web-swapcase" id="web-toc-swapcase">**swapcase**</a>
 - <a href="#web-title" id="web-toc-title">**title**</a>
+- <a href="#web-upper" id="web-toc-upper">**upper**</a>
+- <a href="#web-zfill" id="web-toc-zfill">**zfill**</a>
 
 
 ---
@@ -250,6 +252,17 @@ YouTube Shorts - Python Büyün String Metotları - Python All String Methods **
 <a href="#web-toc-title"><span>&#8679;</span></a> - <span id = "web-title">**title :**</span><br>
 [![title](https://img.youtube.com/vi/-UtoNTt8xJs/0.jpg)](https://youtube.com/shorts/-UtoNTt8xJs "title")
 <br>
+
+---
+<a href="#web-toc-upper"><span>&#8679;</span></a> - <span id = "web-upper">**upper :**</span><br>
+[![upper](https://img.youtube.com/vi/ERgbjUmlU7Y/0.jpg)](https://youtube.com/shorts/ERgbjUmlU7Y "upper")
+<br>
+
+---
+<a href="#web-toc-zfill"><span>&#8679;</span></a> - <span id = "web-zfill">**zfill :**</span><br>
+[![zfill](https://img.youtube.com/vi/YimTAZ3xQ_E/0.jpg)](https://youtube.com/shorts/YimTAZ3xQ_E "zfill")
+<br>
+
 
 
 
