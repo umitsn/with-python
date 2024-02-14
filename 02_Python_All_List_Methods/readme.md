@@ -1,4 +1,6 @@
-Python All List Methods
+YouTube Shorts - Python Büyün Liste Metotları - Python All List Methods **[Youtube](https://www.youtube.com/@umtsn)** | **[Buymeacoffee](https://www.buymeacoffee.com/umitsen)** 
+
+[All Python Methods YouTube Shorts Playlist](https://www.youtube.com/playlist?list=PLWmM3tw4zswagGkzu5NRppWn4Ym9-EcOJ)
 
 - <a href="#web-append" id="web-toc-append">**append**</a>
 
