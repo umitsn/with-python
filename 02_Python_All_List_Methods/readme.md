@@ -4,6 +4,8 @@ YouTube Shorts - Python Büyün Liste Metotları - Python All List Methods **[Yo
 
 - <a href="#web-append" id="web-toc-append">**append**</a>
 - <a href="#web-clear" id="web-toc-clear">**clear**</a>
+- <a href="#web-copy" id="web-toc-copy">**copy**</a>
+- <a href="#web-count" id="web-toc-count">**count**</a>
 
 ---
 <a href="#web-toc-append"><span>&#8679;</span></a> - <span id = "web-append">**append :**</span><br>
@@ -15,3 +17,13 @@ YouTube Shorts - Python Büyün Liste Metotları - Python All List Methods **[Yo
 [![clear](https://img.youtube.com/vi/ke9hPrGhEgs/0.jpg)](https://youtube.com/shorts/ke9hPrGhEgs "clear")
 <br>
 
+---
+<a href="#web-toc-copy"><span>&#8679;</span></a> - <span id = "web-copy">**copy :**</span><br>
+[![copy](https://img.youtube.com/vi/ke9hPrGhEgs/0.jpg)](https://youtube.com/shorts/ke9hPrGhEgs "copy")
+<br>
+
+
+---
+<a href="#web-toc-count"><span>&#8679;</span></a> - <span id = "web-count">**count :**</span><br>
+[![count](https://img.youtube.com/vi/0qIval7w9GE/0.jpg)](https://youtube.com/shorts/0qIval7w9GE "count")
+<br>
