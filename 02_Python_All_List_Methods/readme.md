@@ -7,6 +7,7 @@ YouTube Shorts - Python Büyün Liste Metotları - Python All List Methods **[Yo
 - <a href="#web-copy" id="web-toc-copy">**copy**</a>
 - <a href="#web-count" id="web-toc-count">**count**</a>
 - [**extend**](https://youtube.com/shorts/hMyZqE3tjTs?feature=share)
+- [**index**](https://youtube.com/shorts/tVCxwy23JAc?feature=share)
 
 ---
 <a href="#web-toc-append"><span>&#8679;</span></a> - <span id = "web-append">**append :**</span><br>
