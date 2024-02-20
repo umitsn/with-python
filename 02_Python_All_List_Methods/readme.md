@@ -9,4 +9,5 @@ YouTube Shorts - Python Büyün Liste Metotları - Python All List Methods **[Yo
 - [**extend**](https://youtube.com/shorts/hMyZqE3tjTs?feature=share)
 - [**index**](https://youtube.com/shorts/tVCxwy23JAc?feature=share)
 - [**insert**](https://youtube.com/shorts/GFyH0VpivLs?feature=share)
+- [**pop**](https://youtube.com/shorts/11kNsMD41K0?feature=share)
 
