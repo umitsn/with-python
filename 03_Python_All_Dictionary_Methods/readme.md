@@ -1,4 +1,4 @@
-YouTube Shorts - Python Büyün Liste Metotları - Python All List Methods **[Youtube](https://www.youtube.com/@umtsn)** | **[Buymeacoffee](https://www.buymeacoffee.com/umitsen)** 
+YouTube Shorts - Python Büyün Sözlük Metotları - Python All Dictionary Methods **[Youtube](https://www.youtube.com/@umtsn)** | **[Buymeacoffee](https://www.buymeacoffee.com/umitsen)** 
 
 [All Dictionary Methods YouTube Shorts Playlist](https://www.youtube.com/playlist?list=PLWmM3tw4zswajrZsMsF8TNAL80S_jivbg)
 
