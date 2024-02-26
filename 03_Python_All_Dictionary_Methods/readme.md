@@ -4,3 +4,4 @@ YouTube Shorts - Python Büyün Sözlük Metotları - Python All Dictionary Meth
 
 - [**clear**](https://youtube.com/shorts/BoxO8WzRdO4?feature=share)
 - [**copy**](https://youtube.com/shorts/3jXd9uW3OCo?feature=share)
+- [**fromkeys**](https://youtube.com/shorts/3co5NjKM8Kc?feature=share)
