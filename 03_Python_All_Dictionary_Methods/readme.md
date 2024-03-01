@@ -12,3 +12,4 @@ YouTube Shorts - Python Büyün Sözlük Metotları - Python All Dictionary Meth
 - [**popitem**](https://youtube.com/shorts/uL88Sn09Gzg?feature=share)
 - [**setdefault**](https://youtube.com/shorts/SF4E06sJdQg?feature=share)
 - [**update**](https://youtube.com/shorts/S5atPDZGDVo?feature=share)
+- [**values**](https://youtube.com/shorts/63hB5NqxE4A?feature=share)
