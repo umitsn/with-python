@@ -1,1 +1,6 @@
+YouTube Shorts - Python Büyün Demet(Tuple) Metotları - Python All Tuple Methods **[Youtube](https://www.youtube.com/@umtsn)** | **[Buymeacoffee](https://www.buymeacoffee.com/umitsen)** 
 
+[All Tuple Methods YouTube Shorts Playlist](https://www.youtube.com/playlist?list=PLWmM3tw4zswahy7qBE21jzhiflGjkdM6p)
+
+
+- [**count**](https://youtube.com/shorts/mSxtw8moPHk?feature=share)
