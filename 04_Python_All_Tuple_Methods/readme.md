@@ -4,3 +4,4 @@ YouTube Shorts - Python Büyün Demet(Tuple) Metotları - Python All Tuple Metho
 
 
 - [**count**](https://youtube.com/shorts/mSxtw8moPHk?feature=share)
+- [**index**](https://youtube.com/shorts/m3YNfq7mQY8?feature=share)
