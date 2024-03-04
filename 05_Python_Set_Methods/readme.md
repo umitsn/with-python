@@ -4,3 +4,5 @@ YouTube Shorts - Python Küme(Set) Metotları - Python Tuple Methods **[Youtube]
 
 
 - [**add**](https://youtube.com/shorts/PQZZArP67Os?feature=share)
+- [**clear**](https://youtube.com/shorts/eO7Rl6VxBhM?feature=share)
+- [**copy**](https://youtube.com/shorts/rnB8gay-X4M?feature=share)
