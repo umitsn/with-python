@@ -6,3 +6,8 @@ YouTube Shorts - Python Küme(Set) Metotları - Python Tuple Methods **[Youtube]
 - [**add**](https://youtube.com/shorts/PQZZArP67Os?feature=share)
 - [**clear**](https://youtube.com/shorts/eO7Rl6VxBhM?feature=share)
 - [**copy**](https://youtube.com/shorts/rnB8gay-X4M?feature=share)
+- [**difference**](https://youtube.com/shorts/g8fU0-bQUH0?feature=share)
+- [**difference_update**](https://youtube.com/shorts/3mCClW95R3Q?feature=share)
+- [**discard**](https://youtube.com/shorts/is9QDWly6ww?feature=share)
+- [**intersection**](https://youtube.com/shorts/4hDSgICM14A?feature=share)
+- [**intersection_update**](https://youtube.com/shorts/t3I7iPAQtAo?feature=share)
