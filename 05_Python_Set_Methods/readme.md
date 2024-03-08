@@ -11,3 +11,5 @@ YouTube Shorts - Python Küme(Set) Metotları - Python Tuple Methods **[Youtube]
 - [**discard**](https://youtube.com/shorts/is9QDWly6ww?feature=share)
 - [**intersection**](https://youtube.com/shorts/4hDSgICM14A?feature=share)
 - [**intersection_update**](https://youtube.com/shorts/t3I7iPAQtAo?feature=share)
+- [**isdisjoint**](https://youtube.com/shorts/an5A1Skxbgg?feature=share)
+- [**issubset**](https://youtube.com/shorts/hZUw-FLZVJs?feature=share)
