@@ -18,3 +18,5 @@ YouTube Shorts - Python Küme(Set) Metotları - Python Tuple Methods **[Youtube]
 - [**remove**](https://youtube.com/shorts/r9iDGUybK0o?feature=share)
 - [**symmetric_difference**](https://youtube.com/shorts/00auo4sBrs4?feature=share)
 - [**symmetric_difference_update**](https://youtube.com/shorts/xQ-5eMSZFv4?feature=share)
+- [**union**](https://youtube.com/shorts/xUqK4aWUppg?feature=share)
+- [**update**](https://youtube.com/shorts/KZEDcuuTVDQ?feature=share)
