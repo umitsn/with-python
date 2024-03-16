@@ -1,4 +1,4 @@
-YouTube Shorts - Python Küme(Set) Metotları - Python Tuple Methods **[Youtube](https://www.youtube.com/@umtsn)** | **[Buymeacoffee](https://www.buymeacoffee.com/umitsen)** 
+YouTube Shorts - Python Yerleşik Fonksiyonlar - Python Built-in Functions **[Youtube](https://www.youtube.com/@umtsn)** | **[Buymeacoffee](https://www.buymeacoffee.com/umitsen)** 
 
 [Python Built-in Functions YouTube Shorts Playlist](https://www.youtube.com/playlist?list=PLWmM3tw4zswYLyQqKWh1kA1GfQwtu9eFJ)
 
