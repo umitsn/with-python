@@ -12,7 +12,7 @@ YouTube Shorts - Python Yerleşik Fonksiyonlar - Python Built-in Functions **[Yo
 - [**bytes**](https://youtube.com/shorts/iE4V2tzxhvc?feature=share)
 - [**callable**](https://youtube.com/shorts/Ps-SqXCatWs?feature=share)
 - [**chr**](https://youtube.com/shorts/MrE4_6q5MT8?feature=share)
-- **classmethod**](https://youtube.com/shorts/ImuTn57eTu8?feature=share)
+- [**classmethod**](https://youtube.com/shorts/ImuTn57eTu8?feature=share)
 - [**compile**](https://youtube.com/shorts/RYGc8gQwnLE?feature=share)
 - [**complex**](https://youtube.com/shorts/35I6GHfob9g?feature=share)
 - [**delattr**](https://youtube.com/shorts/biVsbUcc4xs?feature=share)
