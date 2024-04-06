@@ -20,3 +20,5 @@ YouTube Shorts - Python Yerleşik Fonksiyonlar - Python Built-in Functions **[Yo
 - [**dir**](https://youtube.com/shorts/h6ldtGItmgg?feature=share)
 - [**divmod**](https://youtube.com/shorts/DV793IfM92A?feature=share)
 - [**eval**](https://youtube.com/shorts/NUKINE3nP3w?feature=share)
+- [**enumerate**](https://youtube.com/shorts/6UAJ0OSwFjw?feature=share)
+- [**exec**](https://youtube.com/shorts/oBf8mAMDpKc?feature=share)
