@@ -13,8 +13,8 @@ def generatePassword(n):
         if len(cList) < n:
             k = random.choice(gList)
             cList.append(random.choice(k))
-    else:
-        durum = False  
+        else:
+            durum = False  
     return ''.join(random.sample(cList,len(cList)))
 
 for i in range(1,6):
