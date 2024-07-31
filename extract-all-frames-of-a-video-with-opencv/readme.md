@@ -1,3 +1,3 @@
-**allFrames.py** dosyası hangi klasör içinde ise o klasördeki tüm videoların istenen adımdaki framelerini ya da tüm framelerini dosya ismine göre otomatik olarak oluşturduğu klasörlere jpeg formatında kaydeder. İşlemi biten videoyu oluşturduğu tamamlanan videolar adındaki klasöre taşır.
+**allFrames.py** içinde bulunduğu klasördeki tüm videoların framelerini oluşturduğu klasörlere kaydeder. Tüm frameleri ya da belirli adımda atlayarak seçilen frameleri jpeg formatında kaydedebilirsin. İşlemi biten videoları tamamlanan videolar adında oluşturduğu klasöre taşır.
 
-**allFrames.py** saves the frames or all frames of all videos in the folder in which the file is located in the desired step in jpeg format to the folders it creates automatically according to the file name. Moves the finished video to the folder named completed videos.
+**allFrames.py** saves the frames of all videos in the folder it is in to the folders it creates. You can save all frames or skip a certain step and save selected frames in jpeg format. Moves the finished videos to a folder called finished videos.
