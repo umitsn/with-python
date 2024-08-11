@@ -3,7 +3,7 @@ import random
 uList = [chr(i) for i in range(65,91)]  ## A-Z",
 lList = [chr(i) for i in range(97,123)] ## a-z",
 nList = [chr(i) for i in range(48,58)]  ## 0-9",
-sList = [chr(i) for i in [36,37,38,40,41,42,43]] ## $ % & ( ) * +",
+sList = [chr(i) for i in [36,37,38,40,41,42,43]] ## $ % & ( ) * + ,
 
 def generatePassword(n):
     gList = [uList,lList,nList]
