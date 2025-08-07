@@ -1,7 +1,7 @@
 
 def findArrays(N):
     print(f"Girilen Sayı : {N}")
-    print("Bulunan Dizler :")
+    print("Bulunan Diziler :")
     print("-"*50)
     s = 0
     T = 2*N
