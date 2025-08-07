@@ -7,6 +7,7 @@ YouTube Shorts - Python Yerleşik Fonksiyonlar - Python Built-in Functions **[Yo
 ![ornek](/arithmetic-sequences/how-many-sequences-make-2025-python.png)
 
 1012 + 1013 = 2025
+
 674 + 675 4 676 = 2025
 ...
 ...
