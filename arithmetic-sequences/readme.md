@@ -8,7 +8,7 @@ YouTube Shorts - Python Yerleşik Fonksiyonlar - Python Built-in Functions **[Yo
 
 1012 + 1013 = 2025
 
-674 + 675 4 676 = 2025
+674 + 675 + 676 = 2025
 
 ...
 
